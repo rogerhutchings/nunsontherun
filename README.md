@@ -1,3 +1,3 @@
 # Nuns on the Run Mockup
 
-Run `harp server`
+Run `npm run start`
